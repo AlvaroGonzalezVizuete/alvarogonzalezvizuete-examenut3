@@ -27,5 +27,5 @@ public class AlvaroGonzalezVizuete_ExamenUT3 {
         
         System.out.println("Precio final: " + paq.calcularPrecioFinal());
         System.out.println("Seguro: " + paq.calcularSeguro(paq.calcularPrecioFinal()));
-    }
-}
+    } //Cambio1
+} // Cambio2
